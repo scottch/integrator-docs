@@ -1,0 +1,2 @@
+# Introduction
+This Integrator platform supports an incredibly rich customization framework.  The integrations that you build can include custom installers, custom settings pages, along with any number of custom integration hooks (integration hooks give you the ability to write your own custom code, and are especially useful for requirements that just can't be implemented via configuration alone).  Any integrations that you build can also be listed in the Integrator Marketplace for easy install by any other Integrator user.
