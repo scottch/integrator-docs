@@ -1,2 +1,16 @@
 # Introduction
-This Integrator platform supports an incredibly rich customization framework.  The integrations that you build can include custom installers, custom settings pages, along with any number of custom integration hooks (integration hooks give you the ability to write your own custom code, and are especially useful for requirements that just can't be implemented via configuration alone).  Any integrations that you build can also be listed in the Integrator Marketplace for easy install by any other Integrator user.
+The Integrator is both a product and a platform, supporting both the ability to integrate any two applications along with the ability to package and distribute the things that you build.  For example, using the Integrator product you can create an incredibly rich, highly complex integration between two specific applications; and then using the Integrator platform you can make that integration available for easy install by any other Integrator product user.  The integration apps that you build can include installers, custom settings pages, along with any number of custom hooks to perform complex business logic.  The apps that you build always remain update-able by you (the developer) so that you can deliver a fully managed SaaS experience for your users.  This guide attempts to document the core functionality of the Integrator, both the product and the platform.  Enjoy!
+
+# Core Product
+## Dashboard
+## Connections
+## Jobs
+## Flows
+## Integrations
+## Packaging
+## Installers
+## Settings Pages
+# Customizations
+## Hooks
+### Core
+### NetSuite
